@@ -1,6 +1,6 @@
 # 0x02. Unity - Scripting
 
-![alt text](https://www.pluralsight.com/content/pluralsight/en/blog/tutorials/mas/mastering-basics-unity-user-interface/_jcr_content/main/hero_blog_block/image-res.img.jpg/1527709369945.jpg)
+![alt text](https://docs.unity3d.com/uploads/Main/ScriptingIntroPic.jpg)
 
 ## Learning Objectives
 
