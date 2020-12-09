@@ -1,4 +1,7 @@
-# 0x03. Unity - UI
+# 0x02. Unity - Scripting
+
+![Alt text](https://github.com/Ken-Mens/0x02-unity-scripting/blob/master/Unity_Script.png?raw=true)
+
 
 ## Learning Objectives
 
