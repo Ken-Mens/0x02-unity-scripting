@@ -47,5 +47,8 @@ Create a new Plane GameObject named Goal.
 ### 8. Goalllll
 In PlayerController.cs, add to the existing void OnTriggerEnter(Collider other) function
 
+![Alt text](https://github.com/Ken-Mens/0x02-unity-scripting/blob/master/Unity_Script.png)
+
+
 ### 9. Game Over
 Create an Update() function within PlayerController.cs.
