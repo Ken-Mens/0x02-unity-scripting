@@ -20,10 +20,8 @@ General
 ### 0. Ready player One
 Inside the maze scene, create a Sphere GameObject named Player with a Rigidbody component.
 
-Position: (23, 1.2, 16)
-Scale: (2, 2, 2)
-Material Name: player
-Material Color: #0000FFFF
+- Position: (23, 1.2, 16)
+- Scale (2, 2, 2)
 
 ### 1. Bust a Move
 Create a directory Scripts. In this directory, create a new C# script called PlayerController.cs. Attach this script to the Player object. Within this script, update the Start() and FixedUpdate() functions to allow the Player to move when either the WASD or arrow keys are pressed
